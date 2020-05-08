@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Lists</title>
+</head>
+<body>
+<h1> Chiken Fry</h1>
+<p>chicken fry is one my favourite dish.<br>Here is the recipe for decious chicken fry.</p>
+<h2>Ingredients</h2>
+<dl>
+<dt>Ginger garlic paste</dt>
+<dd> A paste is made of ginger is grinded with garlic.<\dd>
+</dl>
+<ul>
+<li> chicken</li>
+<li>oil as needed</li>
+<li>salt</li>
+<li>garam masala</li>
+<li>chilly powder</li>
+<li>lemon juice</li>
+<li>vinegar</li>
+</ul>
+<h2>Procedure</h2>
+<ol>
+<li>Take one kg of chicken and clean it with water and one spoon of vinegar.</li>
+<li>After cleaing add one spoon of chillipowder,ginger garlli paste,garam masala,half teaspoon of lemonjuice and salt as needed
+ to the chicken.</li>
+ <li>all the ingredientts mix with chicken and keep the mixture a side for 15 min.</li>
+ <li>deep fry the chiken pieces with oil as needed.</li>
+ </ol>
+ </body>
+ </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
