@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>inserting images</title>
+</head>
+<body><h1 align=center>Chicken Dishes</h1>
+<img src="images/fry.jpg" title="grilled chicken" alt="fry" align="left" width=200px heigth=200px/>
+<h2 align=left>Grilled Chicken</h2>
+<p align=justify>DescriptionBarbecue chicken consists of chicken parts or entire chickens that are barbecued, grilled or smoked. There are many global and regional preparation techniques and cooking styles. Barbecue chicken is often seasoned or coated in a spice rub, barbecue sauce, or both.
+DescriptionBarbecue chicken consists of chicken parts or entire chickens that are barbecued, grilled or smoked. There are many global and regional preparation techniques and cooking styles. Barbecue chicken is often seasoned or coated in a spice rub, barbecue sauce, or both.  </p><br>
+<br>
+<hr/>
+
+<img src="images/biryani.jpg" title="chicken Biryani." align="right"/>
+<h2 align=right>chicken biryani</h2>
+<p align=justify>Biryani (pronounced [b?r.ja?ni?]) is a mixed rice dish with its origins among the Muslims of the Indian subcontinent.[1][2][3] It can be compared to mixing a curry, later combining it with semi-cooked rice separately. This dish is especially popular throughout the Indian subcontinent, as well as among the diaspora from the region. It is also prepared in other regions such as Iraqi Kurdistan.[4] It is made with Indian spices, rice, meat (chicken, beef, goat, pork, lamb, prawn, or fish), vegetables or eggs. The word 'biryani' is derived from a Persian word, birian, which means fried before cooking. It is one of the most popular dishes, which has acquired a niche for itself in South Asian cuisine.</p>
+<hr>
+<img src="images/chicken.jpg" title="chicken curry" align="bottom"/>
+<h2 align=left>chicken curry</h2>
+<p>Indian cuisine has a large amount of regional variation, with many variations on the basic chicken curry recipe. Indian chicken curry typically starts with whole spices, heated in oil. A sauce is then made with onions, ginger, garlic, and tomatoes, and powdered spices. Bone-in pieces of chicken are then added to the sauce, and simmered until cooked through.[1] In South India, coconut and curry leaves are also popular ingredients.[2] Chicken curry is usually garnished with coriander leaves, and served with rice or roti. Even within the country, there are variations among regions. In Northern India, where the delicacy may be cooked with extra spice. Additionally, one can find the dish in several small shops as well as five-star restaurants. Depending on the style of preparation, some versions may be sweeter while others will have a creamier taste to them due to the ample use of butter and cashew nut paste.
+In South India, chicken curry may be thickened using coconut milk.[3]
+
+</p>
+<hr>
+<h1 align=center>Peace Sign</h1>
+<figure>
+<img src="images/download.jpg" align="middle" title="symbol of peace">
+<figcaption>The symbol is known as the "peace sign".</figcaption>
+</figure>
+</body>
+</html>
